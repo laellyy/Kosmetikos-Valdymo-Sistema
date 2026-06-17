@@ -1,0 +1,15 @@
+1;CeraVe Hydrating Cleanser;Prausiklis;Sausa;12.99;9
+2;CeraVe Moisturizing Cream;Kremas;Sausa;14.99;10
+3;COSRX Snail Mucin;Esencija;Jautri;18.99;10
+4;Beauty of Joseon Relief Sun;SPF;Visiems;15.99;10
+5;Anua Heartleaf Toner;Tonikas;Jautri;21.99;9
+6;Skin1004 Centella Ampoule;Ampule;Jautri;19.99;10
+7;The Ordinary Niacinamide 10%;Serumas;Riebi;9.99;8
+8;Round Lab Birch Juice Sunscreen;SPF;Visiems;18.99;10
+9;Bioderma Sensibio Gel;Prausiklis;Jautri;13.99;8
+10;Purito Centella Serum;Serumas;Jautri;17.99;9
+11;Anua Cleansing Oil;Valomasis aliejus;Visiems;20.99;9
+12;Medicube Zero Pad;Padukai;Riebi;22.99;8
+13;Isntree Hyaluronic Toner;Tonikas;Sausa;16.99;9
+14;CER-100 Treatment;Kauke;Pazeisti plaukai;11.99;9
+15;Elizavecca CER-100 Leave In;Leave In;Pazeisti plaukai;10.99;8
